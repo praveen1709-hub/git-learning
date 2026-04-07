@@ -1,2 +1,3 @@
 print("Hello, GIt!")
-print("Learning")
+print("Learning is fun")
+
