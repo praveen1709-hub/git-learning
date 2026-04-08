@@ -1,10 +1,10 @@
 print("Hello, Git!")
 print("Learning Git is fun!")
 
-def greet(name):
+def login(name):
     print(f"Hello {name}")
 
-greet("Praveen")
+login("Praveen")
 
 print("This is feature branch")
 print("Main branch change")
