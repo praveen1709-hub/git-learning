@@ -1,6 +1,3 @@
-print("Hello, Git!")
-print("Learning Git is fun!")
-
 def login(name):
     print(f"Hello {name}")
 
